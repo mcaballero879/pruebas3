@@ -1,0 +1,4 @@
+clase 3 control /name Microsoft.CredentialManager
+control /name Microsoft.CredentialManager
+
+https://drive.google.com/file/d/15PbQbzanJ11Cv7bq0nJro5wqRjRIq2FD/view

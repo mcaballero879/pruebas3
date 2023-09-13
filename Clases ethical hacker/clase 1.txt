@@ -1,0 +1,12 @@
+Tener una actualización de más,puede producir que la misma tenga un fallo.
+
+1_Documentar la actualizacion a implementar. Probar resultados.
+
+https://gbhackers.com/latest-google-dorks-list/
+
+intitle:"index of"
+
+https://www.exploit-db.com/google-hacking-database
+
+hOLA
+hola2as
